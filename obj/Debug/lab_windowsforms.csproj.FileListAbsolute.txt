@@ -1,0 +1,11 @@
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\bin\Debug\lab_windowsforms.exe.config
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\bin\Debug\lab_windowsforms.exe
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\bin\Debug\lab_windowsforms.pdb
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.csproj.AssemblyReference.cache
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.Form1.resources
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.Properties.Resources.resources
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.csproj.GenerateResource.cache
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.csproj.CoreCompileInputs.cache
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.exe
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.pdb
+C:\Users\erick.rsantos9\Source\Repos\tdsFormmm\lab_windowsforms\obj\Debug\lab_windowsforms.exe.config
