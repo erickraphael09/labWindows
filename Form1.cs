@@ -71,7 +71,38 @@ namespace lab_windowsforms
 
         private void button2_Click(object sender, EventArgs e)
         {
+            // Acrestar os valores em variaveis
+            string nome = this.textBox1.Text;
+            string endereco = this.textBox2.Text;
+            string dtNascimento = this.dtpNasc.Text;
+            string cpf = txtCPF.Text;
+            string telefone = txtTelefone.Text;
+            string genero = cmbGenero.Text;
+
+           MessageBox.Show($"Nome: {nome} \n" +
+                            $"Endereço: {endereco} \n" +
+                            $"Data de Nascimento: {dtNascimento} \n" +
+                            $"CPF: {cpf} \n" +
+                            $"Telefone: {telefone} \n" +
+                            $"Gênero: {genero} \n");
+
+
             MessageBox.Show("Cadastro realizado com sucesso!");
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
